@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-part{
+
+
+    border-radius: 12px;
+    background-color: aliceblue;
+    text-align: center;
+    box-shadow: 4px 6px 15px rgba(0, 0, 0, 0.3);
+    
+}
+
+button{
+    cursor: pointer;
+}
+button:hover{
+    background-color: grey;
+}
+#result{
+
+    background-color: mediumspringgreen;
+
+}
